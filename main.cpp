@@ -1,5 +1,5 @@
 /*
- * created by Danil Kireev, PFUR NFI-201, 18.10.18, 09:00
+ * created by Danil Kireev, PFUR NFIbd-01-17, 18.10.18, 09:00
  */
 #include <cstdlib>
 #include <ctime>
